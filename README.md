@@ -13,7 +13,7 @@ Este é o meu primeiro projeto desenvolvido na Trybe, onde tive meu primeiro con
 git clone git@github.com:lucas-da-silva/trybe-lessons-learned.git
 ```
 
-2. Dentro do reposítorio, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
+2. Dentro do repositório, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
 
 ---
 
