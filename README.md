@@ -1,6 +1,6 @@
 # Bem vindo ao projeto Lessons Learned
 
-## Comentário
+## Comentários
 Este é o meu primeiro projeto desenvolvido na Trybe, onde tive meu primeiro contato com HTML e CSS, e este é um projeto simples, mas foi muito gratificante desenvolve-lo.
 
 ---
