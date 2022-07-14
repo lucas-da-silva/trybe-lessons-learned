@@ -10,7 +10,7 @@ Este é o meu primeiro projeto desenvolvido na Trybe, onde tive meu primeiro con
 1. No terminal, em um diretório de sua escolha, clonar o repositório:
 
 ```
-git clone 
+git clone git@github.com:lucas-da-silva/trybe-lessons-learned.git
 ```
 
 2. Dentro do reposítorio, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
